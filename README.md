@@ -1,2 +1,1 @@
-### Hi, Welcome!
-### Hej, Välkommen!
+### Hi, Welcome! / Hej, Välkommen!
